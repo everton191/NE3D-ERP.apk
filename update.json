@@ -1,8 +1,8 @@
 {
   "version": "2026.04.28-manual-download",
   "versionCode": 10,
-  "apkUrl": "https://github.com/everton191/NE3D-ERP.apk/raw/main/NE3D-ERP.apk",
+  "apkUrl": "https://raw.githubusercontent.com/everton191/NE3D-ERP.apk/main/NE3D-ERP.apk?v=10",
   "apkFile": "NE3D-ERP.apk",
   "publicRepo": "everton191/NE3D-ERP.apk",
-  "generatedAt": "2026-04-28T19:01:19.416Z"
+  "generatedAt": "2026-04-28T19:03:23.145Z"
 }
