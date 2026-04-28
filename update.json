@@ -1,8 +1,8 @@
 {
-  "version": "2026.04.28-update-repo",
-  "versionCode": 7,
+  "version": "2026.04.28-password-fix",
+  "versionCode": 8,
   "apkUrl": "https://github.com/everton191/NE3D-ERP.apk/raw/main/NE3D-ERP.apk",
   "apkFile": "NE3D-ERP.apk",
   "publicRepo": "everton191/NE3D-ERP.apk",
-  "generatedAt": "2026-04-28T18:22:19.641Z"
+  "generatedAt": "2026-04-28T18:47:35.151Z"
 }
