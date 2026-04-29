@@ -1,8 +1,8 @@
 {
-  "version": "2026.04.28-login-clean",
-  "versionCode": 11,
-  "apkUrl": "https://raw.githubusercontent.com/everton191/NE3D-ERP.apk/main/NE3D-ERP.apk?v=11",
+  "version": "2026.04.29-mercadopago-saas-vercel",
+  "versionCode": 15,
+  "apkUrl": "https://raw.githubusercontent.com/everton191/NE3D-ERP.apk/main/NE3D-ERP.apk?v=15",
   "apkFile": "NE3D-ERP.apk",
   "publicRepo": "everton191/NE3D-ERP.apk",
-  "generatedAt": "2026-04-28T19:22:07.352Z"
+  "generatedAt": "2026-04-29T16:41:01.426Z"
 }
